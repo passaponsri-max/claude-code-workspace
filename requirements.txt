@@ -1,0 +1,24 @@
+# Python packages for Claude Code Workspace
+# Install all with: pip install -r requirements.txt
+
+# Web requests & scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Browser automation
+playwright==1.42.0
+
+# Data processing
+pandas==2.2.1
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Environment variables (keep API keys safe)
+python-dotenv==1.0.1
+
+# Progress bars (nice to have)
+tqdm==4.66.2
+
+# HTTP requests with retries
+httpx==0.27.0
